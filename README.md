@@ -6,6 +6,12 @@ The Decentralized Time Banking System is a revolutionary blockchain-based platfo
 
 The platform facilitates peer-to-peer service exchanges within communities, where members can offer their skills and time to help others while earning Time Tokens that they can later use to request services from other community members. This creates a circular economy based on mutual aid and community cooperation.
 
+## Contract Address
+ 
+0xABC6adA7F71Cdc199A9f202b370b64BE8b137c1D
+<img width="1437" height="703" alt="Screenshot 2025-08-28 at 12 03 25 PM" src="https://github.com/user-attachments/assets/5cd75c5b-9055-46c4-9990-21ee80fe5410" />
+
+
 ## Project Vision
 
 Our vision is to create a more equitable and connected world where:
